@@ -1,0 +1,17 @@
+This project has the code for mutli level classification problem
+
+Input Folder:
+The input folder contains all the raw files or processed files which are being used
+in the project.
+
+Output Folder:
+The output folder contains the results of the model
+
+Source Folder:
+This folder contains the code to run different model - KNN/NaiveBias/Logistic Regression/Decision Tree
+
+To Run the code follow the steps below
+1. Make sure the required libraries are installed
+2. Place your input file in the folder
+3. Navigate to source folder and execute Engine.py file
+4. A report with model performance will be generated in the output folder
